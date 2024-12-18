@@ -1,0 +1,12 @@
+
+body{
+    margin: 0;
+   width: 100vw;
+   height: 100vh;
+   background-image:linear-gradient(#E1F5FE,#F1F8E9) ;
+   color: #000000
+  
+}
+p{
+    text-align: center
+}
